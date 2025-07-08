@@ -9,6 +9,6 @@ https://flickerfkr.com
 https://flickerfkr.com/flicker/uploads/whitepaper.pdf
 
 ## Contact
-- Name: Santosh Mishra
+- Name: Ravi Shankar Singh
 - Email: jaking74587@gmail.com
 - Phone: +91 84250 89227
