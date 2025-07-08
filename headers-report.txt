@@ -1,0 +1,8 @@
+# Headers Scan Result
+
+Some basic security headers are currently missing or minimal:
+- Content-Security-Policy: Not set
+- Strict-Transport-Security: Not set
+- X-Frame-Options: Not set
+
+SSL is valid and active (https://flickerfkr.com). Improvement of headers is in progress.
